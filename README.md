@@ -77,7 +77,7 @@ Key variables include:
 
 # ⚙️ Project Workflow
 
-## Phase 1 — Data Sanitization
+## Phase 1  Data Sanitization
 
 The first stage focuses on producing a physically consistent dataset.
 
@@ -99,7 +99,7 @@ The cleaning process ensures that impossible operating conditions are removed be
 
 ---
 
-## Phase 2 — Physics-Informed Feature Engineering
+## Phase 2  Physics-Informed Feature Engineering
 
 New engineering features were developed to better represent reservoir and production system behaviour.
 
@@ -116,7 +116,7 @@ These engineered variables improve the physical representation of production beh
 
 ---
 
-## Phase 3 — Exploratory Data Analysis (EDA)
+## Phase 3  Exploratory Data Analysis (EDA)
 
 The cleaned dataset was explored to identify production trends, operational behaviour, and feature relationships.
 
@@ -131,7 +131,7 @@ Visualizations include:
 
 ---
 
-## Phase 4 — Interactive Feature Space Evaluation
+## Phase 4  Interactive Feature Space Evaluation
 
 An interactive Plotly dashboard was developed to evaluate multidimensional feature relationships.
 
@@ -209,6 +209,7 @@ Bubble Size:
 
 ```
 pdseaa-petroleum-production-data-analysis
+├── Practice Project 1.docx
 │
 ├── Akindutire_Practice_Project_PDSEAA_solution.ipynb
 ├── README.md
@@ -326,7 +327,7 @@ Interests:
 
 # 🙏 Acknowledgements
 
-This project was completed as part of **Practice Project 1** in the **Petroleum Data Science and Engineering Analytics Academy (PDSEAA)**.
+This project was completed as part of **Practice Project 1** in the **Petroleum Data Science and Engineering Analytics Academy (PDSEAA) Afric Region**.
 
 Special appreciation to the PDSEAA instructors and mentors for designing practical, industry-relevant projects that bridge petroleum engineering and data science.
 
